@@ -1,2 +1,1 @@
-# hello-world
-My first git repository
+Hi, I like client/server side programming.
